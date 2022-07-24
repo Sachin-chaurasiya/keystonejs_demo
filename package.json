@@ -1,0 +1,13 @@
+{
+  "name": "keystonejs_demo",
+  "version": "1.0.0",
+  "description": "First Demo Project With KeyStoneJs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@keystone-6/auth": "^4.0.0",
+    "@keystone-6/core": "^2.1.0",
+    "@keystone-6/fields-document": "^4.0.1",
+    "typescript": "^4.7.4"
+  }
+}
